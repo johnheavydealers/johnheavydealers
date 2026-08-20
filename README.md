@@ -87,7 +87,7 @@ A digital marketplace focused on connecting heavy equipment owners, rental busin
 
 ---
 
-## 🏢 Bingi Platform
+## 🏢 Mingleap POS Platform
 
 A business management and POS platform designed to help businesses manage operations, sales, products, and customers from a centralized system.
 
